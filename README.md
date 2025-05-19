@@ -1,1 +1,1 @@
-# heart-chronic-disease-ditector
+# heart-chronic-disease-detector
